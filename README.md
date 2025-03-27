@@ -4,5 +4,5 @@ MC80 is K1520 bus computer with at leas three standard K1520 cards ( CPU, RAM, R
 
 MC80 comes with integrated Tape storage (MC80.22 with LW1200), UV Lamp for UVEPROM ereasure, EPROM programmer socket (U555 = 2708 compatible).
 
-My MC80 unit came without card for dedicated programmer (50300.3310.01) but with a set of K0422 programmer + 078-2070 card. It is capable of programming 2708,2716,2732. 
+My MC80 unit came without card for dedicated programmer (50300.3310.01) but with a set of K0422 programmer + 078-2070 card. It is capable of programming 2708, 2716, 2732. 
 
